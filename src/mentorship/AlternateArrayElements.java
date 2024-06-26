@@ -1,5 +1,5 @@
 package mentorship;
-
+//add comment
 public class AlternateArrayElements {
 	public void print(int x[]) {
 		for (int i = 0; i < x.length; i++) {
