@@ -15,6 +15,7 @@ public class AlternateArrayElements {
 		int j = 0, k = 0;
 		AlternateArrayElements a = new AlternateArrayElements();
 		System.out.println("Alternate element are as below:");
+		System.out.println(" Git");
 
 		for (int i = 0; i < x.length; i++) {
 			if (i % 2 == 0) {
