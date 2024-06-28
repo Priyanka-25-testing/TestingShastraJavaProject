@@ -3,7 +3,7 @@ package mentorAssingment;
 public class PerfectNumber {
 /*
  * Perfect number is number equals to the sum of it's divisors, except that number
- For example number 28
+ For example number 6,28,496, and 8128.
  */
 	public static void main(String[] args) {
 		System.out.println("Try programiz.pro");
