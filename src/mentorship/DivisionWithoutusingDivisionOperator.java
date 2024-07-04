@@ -1,5 +1,5 @@
 package mentorship;
-
+// Trciky Questions Asked in Interview Questions 
 public class DivisionWithoutusingDivisionOperator {
 	public static void main(String[] args) {
      int a,b;
