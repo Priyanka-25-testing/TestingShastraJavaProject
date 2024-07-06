@@ -2,7 +2,7 @@ package mentorship;
 
 import java.util.Iterator;
 import java.util.Scanner;
-
+// Second maximum number in the given array
 public class Secondmaxnumber {
 	public static void main(String[] args) {
 		System.out.println("Enter the array size:");
