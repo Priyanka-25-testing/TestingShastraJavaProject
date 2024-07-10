@@ -1,5 +1,5 @@
 package mentorAssingment;
-
+// comment the code
 import java.util.Scanner;
 //x^i+ series
 public class NumberofSeries2 {
