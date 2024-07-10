@@ -1,7 +1,7 @@
 package mentorship;
 
 import java.util.Scanner;
-
+//Write a java program to find even and odd element in given array
 public class EvenOddPrimeNumber {
 	public int evenNumber(int array[]) {// method to print only even numbers from array
 		System.out.println("The even number in the Array are below:");
