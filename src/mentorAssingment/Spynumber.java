@@ -1,7 +1,8 @@
 package mentorAssingment;
 
 import java.util.Scanner;
-
+//Spy number is number A number is said to be a Spy number if the sum of all the digits is equal to the product of all digits.
+//ex = 1412 is spy number
 public class Spynumber {
 	public static void main(String[] args) {
 		System.out.println("Enter the number :");
