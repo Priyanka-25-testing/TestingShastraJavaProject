@@ -1,5 +1,5 @@
 package mentorship;
-
+//Write the program to print index of elemnt , whose sum is target sum
 public class Sumoftwoelmnts {
 	public static void main(String[] args) {
 		int x[]={11,34,56,23,9,13,48,45};

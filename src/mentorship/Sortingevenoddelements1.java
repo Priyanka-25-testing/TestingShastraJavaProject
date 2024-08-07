@@ -13,8 +13,8 @@ public class Sortingevenoddelements1 {
 			}
 		}
 
-		int y[] = new int[j];
-		int z[] = new int[k];
+		int y[] = new int[j];//making array of size of even number
+		int z[] = new int[k];//making array of size of odd number
 		j = 0;
 		k = 0;
 		for (int i = 0; i < x.length; i++) {

@@ -1,7 +1,7 @@
 package mentorship;
 
 import java.util.Scanner;
-
+//maximum number & minimum number in the given array 
 public class MaxMinNumberInArray {
 	public static void main(String[] args) {
 	int x[]= {12,45,87,21,79,89,70};

@@ -1,10 +1,10 @@
 package mentorAssingment;
-
+// comment the code
 import java.util.Scanner;
-
+//x^i+ series
 public class NumberofSeries2 {
 public static void main(String[] args) {
-	System.out.println("Enter the value for x & N");
+	System.out.println("Enter the value for x & N for number Series ");
 	Scanner sc=new Scanner(System.in);
 	int x=sc.nextInt();
 	int N=sc.nextInt();
