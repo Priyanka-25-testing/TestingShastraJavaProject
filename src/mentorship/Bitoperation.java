@@ -1,5 +1,5 @@
 package mentorship;
-//Bit operation means sum of each digit in every element in array is called Bitoperation
+//Bit operation means sum of each digit in every element in array is called Bitoperation.
 public class Bitoperation {
 	public static void main(String[] args) {
 		int digit1, sum = 0;
